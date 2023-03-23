@@ -2,8 +2,7 @@
 
 
 
-Over the course of the project I investigated what kinds of inputs we should use for the machine learning models. I also did an analysis on the inputs to see if they are statistically significant or random. I did this by using multi-variable linear regression in R and looking at the P-values. I was also in charge of explaining all the economic indicators, where we got them, how we transformed the data, and how these impact our independent variable. I displayed our linear results in a dashboard in tableau and imposed that over inflation data to show how the two were related. 
-
+	Over the course of the project I investigated what kinds of inputs we should use for the machine learning models. I also did an analysis on the inputs to see if they are statistically significant or random. I did this by using multi-variable linear regression in R and looking at the P-values. I was also in charge of explaining all the economic indicators, where we got them, how we transformed the data, and how these impact our independent variable. I displayed our linear results in a dashboard in tableau and imposed that over inflation data to show how the two were related. 
 
 	The greatest personal challenge over the project was which machine learning model were we going to use in order to accurately predict the SPY price. This was challenging as my understanding of machine learning was very limited. Luckily my teammates and the data I was able to find on Kaggle led us to doing a neural network. This was still challenging as the code was very dense and technical to understand. 
 	
